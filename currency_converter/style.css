@@ -42,7 +42,9 @@ img{
 }
 .select-container{
     display: flex;
-    width: 6rem;
+    width: 7.5rem;
+    gap: 5px;
+    padding: auto
     justify-content: center;
     align-items: center;
     border-radius: 0.5rem;
